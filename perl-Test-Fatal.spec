@@ -8,13 +8,13 @@
 Summary:	Test::Fatal - incredibly simple helpers for testing code with exceptions
 Summary(pl.UTF-8):	Test::Fatal - bardzo proste funkcje pomocnicze do kodu testującego z wyjątkami
 Name:		perl-Test-Fatal
-Version:	0.008
+Version:	0.010
 Release:	1
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
-Source0:	http://www.cpan.org/modules/by-module/Test/RJBS/%{pdir}-%{pnam}-%{version}.tar.gz
-# Source0-md5:	201c94efbbcbd38b32e3cdc6752a6c07
+Source0:	http://www.cpan.org/modules/by-module/Test/%{pdir}-%{pnam}-%{version}.tar.gz
+# Source0-md5:	d8052d4160e8d999cbeb574592f26541
 URL:		http://search.cpan.org/dist/Test-Fatal/
 BuildRequires:	perl-ExtUtils-MakeMaker >= 6.31
 BuildRequires:	perl-devel >= 1:5.8.7
